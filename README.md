@@ -46,7 +46,9 @@ Quantum computing has the potential to **redefine AI training, optimization, and
 
 ## **📜 License**
 
-This project is licensed under the **MIT License**. See `LICENSE` for details.
+© Project Aurora, 2025. All rights reserved.
+
+This project is NOT viable for open source(yet). Unauthorized use, reproduction, or distribution is prohibited.
 
 ## **🌍 Get Involved**
 
